@@ -1,5 +1,5 @@
 
-const catsList = [ {
+const catsList = [{
     "length": "12 to 16 inches",
     "origin": "Southeast Asia",
     "image_link": "https://api-ninjas.com/images/cats/abyssinian.jpg",
